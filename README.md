@@ -1,4 +1,4 @@
-# END TO END GENERATIVE AI PROJECTS 
+# Collection on LLM Models
 
 ## Awesome Projects Collection on LLM Models
 
